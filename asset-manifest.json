@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/unsplashReact/static/css/main.54b00339.chunk.css",
+    "main.js": "/unsplashReact/static/js/main.4fdb5395.chunk.js",
+    "main.js.map": "/unsplashReact/static/js/main.4fdb5395.chunk.js.map",
+    "runtime-main.js": "/unsplashReact/static/js/runtime-main.38518369.js",
+    "runtime-main.js.map": "/unsplashReact/static/js/runtime-main.38518369.js.map",
+    "static/js/2.9ffbbf19.chunk.js": "/unsplashReact/static/js/2.9ffbbf19.chunk.js",
+    "static/js/2.9ffbbf19.chunk.js.map": "/unsplashReact/static/js/2.9ffbbf19.chunk.js.map",
+    "index.html": "/unsplashReact/index.html",
+    "static/css/main.54b00339.chunk.css.map": "/unsplashReact/static/css/main.54b00339.chunk.css.map",
+    "static/js/2.9ffbbf19.chunk.js.LICENSE.txt": "/unsplashReact/static/js/2.9ffbbf19.chunk.js.LICENSE.txt",
+    "static/media/like.d29e4545.svg": "/unsplashReact/static/media/like.d29e4545.svg",
+    "static/media/notLike.b65bcc72.svg": "/unsplashReact/static/media/notLike.b65bcc72.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38518369.js",
+    "static/js/2.9ffbbf19.chunk.js",
+    "static/css/main.54b00339.chunk.css",
+    "static/js/main.4fdb5395.chunk.js"
+  ]
+}
