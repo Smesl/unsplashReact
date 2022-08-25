@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+.UnsplashImg img {
+    max-width: 100%;
+    cursor: zoom-in;
+    height: auto;
+}
+
+.UnsplashImg {
+  display: inline-block;
+}
+
+/* .UnsplashImg a img {
+  max-width: 100%;
+  cursor: zoom-in;
+  opacity: 1;
+  transition: opacity 124ms linear,transform 124ms linear;
+  height: auto;
+} */
